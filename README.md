@@ -13,8 +13,8 @@ This project is the official website for the Physics Club at Don Bosco Institute
 - Advanced HTML and CSS Skills: Utilized advanced HTML and CSS techniques, including custom Instagram-style card layouts, dynamic loaders for content, and responsive designs.
 - Accordion Features: Implemented accordions to display and organize physics resources and study materials for both Semester 1 and 2.
 - Page Design:
- - Homepage: Designed the landing page with essential information about the club, making it visually engaging and user-friendly.
- - Events Page: Created a stylish and modern events page, listing all club events organized by year with visually appealing cards and hover effects.
- - Blogs Page: Developed a blog section that lists all the articles and updates related to the club and physics topics.
- - Teams Page: Designed a page introducing the club members, showcasing their roles and contributions.
- - Contact Page: Included a contact form along with links to the club’s email and Instagram page for easy outreach.
+ 1. Homepage: Designed the landing page with essential information about the club, making it visually engaging and user-friendly.
+ 2. Events Page: Created a stylish and modern events page, listing all club events organized by year with visually appealing cards and hover effects.
+ 3. Blogs Page: Developed a blog section that lists all the articles and updates related to the club and physics topics.
+ 4. Teams Page: Designed a page introducing the club members, showcasing their roles and contributions.
+ 5. Contact Page: Included a contact form along with links to the club’s email and Instagram page for easy outreach.
